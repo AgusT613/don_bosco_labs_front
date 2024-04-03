@@ -1,1 +1,4 @@
 node_modules
+extra
+.env
+TODO.txt
